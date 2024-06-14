@@ -1,6 +1,6 @@
 ## Mini Project: Phase 2
 
-## Virtual Air Canvas: Hand Gesture Controlled Digital Blackboard
+## Virtual Air Canvas with Character Recognition: Hand Gesture Controlled Digital Blackboard
 
 ## Project Overview
 
